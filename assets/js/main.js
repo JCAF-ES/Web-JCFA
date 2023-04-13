@@ -157,7 +157,6 @@
       }
     }
   });
-
   /**
    * Intro type effect
    */
@@ -173,7 +172,6 @@
       backDelay: 2000
     });
   }
-  
   /**
    * Preloader
    */
